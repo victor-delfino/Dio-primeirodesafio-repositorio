@@ -1,0 +1,4 @@
+Por mais que a ideia inicial do projeto seja simplista e de uma maneira efetiva para nossa absorção
+do conteúdo dado, eu achei a ideia inicial base do Git bem interessante para ser sincero, por ser
+meu primeiro contato com o Git, consegui entender bem os comandos e irei melhorar efetivamente
+a cada repositório e projeto criado.
